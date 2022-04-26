@@ -4,5 +4,5 @@
 ### Tecnologias utilizadas 
 * HTML
 * CSS
-* Javascr 
+* Javasscript
 
