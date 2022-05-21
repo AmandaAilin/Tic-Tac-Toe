@@ -15,7 +15,7 @@ function escolherQuadrado(id) {
     }
 
     quadrado.innerHTML = jogador;
-    quadrado.style.color = '#000';
+    quadrado.style.color = '#77ffc0';
 
     if (jogador === 'X') {
         jogador = 'O';
@@ -98,9 +98,13 @@ function mudaVencedor(quadrado) {
 }
 
 function mudaCorQuadrado(quadrado1, quadrado2, quadrado3) {
-    quadrado1.style.background = '#0f0';
-    quadrado2.style.background = '#0f0';
-    quadrado3.style.background = '#0f0';
+    quadrado1.style.background = 'rgb(80 166 83)';
+    quadrado2.style.background = 'rgb(80 166 83)';
+    quadrado3.style.background = 'rgb(80 166 83)';
+
+    quadrado1.style.color = '#0d1117';
+    quadrado2.style.color = '#0d1117';
+    quadrado3.style.color = '#0d1117';
 }
 
 function checaSecuencia(quadrado1, quadrado2, quadrado3) {
@@ -120,8 +124,8 @@ function reiniciar()
 
     for(let i = 1; i <= 9; i++) {
         let quadrado = document.getElementById(i);
-        quadrado.style.background = '#eee';
-        quadrado.style.color = '#eee';
+        quadrado.style.background = '#0D1117';
+        quadrado.style.color = '#0D1117';
         quadrado.innerHTML = '-';
     }
 

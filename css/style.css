@@ -1,28 +1,60 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body{
     text-align: center;
+    background: #0D1117;
+    font-family: 'Lora', serif;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 40px;
 }
 
 .quadrado {
     text-align: center;
-    width: 50px;
-    background: #eee;
+    width: 40px;
+    background: #0D1117;
     display: inline-block;
     padding: 40px;
-    font-size: 60px;
-    margin: 5px;
+    font-size: 40px;
+    margin: 0.4rem;
     cursor: pointer;
-    color: #eee;
+    color: #0D1117;
+    border: 1px solid #77ffc0;
+    border-radius: 0.5rem;
 }
 
+
 .jogador, .vencedor {
-    font-size: 30px;
-    margin-top: 10px;
+    display: inline-block;
+    flex-direction: row;
+    font-size: 22px;
+    margin: 20px;
+    color: white;
 }
 
 button {
-    margin-top: 10px;
+    margin-top: 8px;
     width: 100px;
-    height: 30px;
-    background: #eee;
+    padding: 0.2rem;
+    font-size: 18px;
+    background: #77ffc0;
     cursor: pointer;
+    border-radius: 0.4rem;
+}
+
+button:hover{
+    background: #5c978a;
+}
+
+footer{
+    text-align: end;
+}
+
+.logo-github img{
+    width: 50px;
+    margin-top: -20px;
 }
