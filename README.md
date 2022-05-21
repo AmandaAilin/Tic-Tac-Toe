@@ -13,11 +13,11 @@
 
 
 ## Descrição do Projeto
-¡Este es un juego clásico de Tic-Tac-Toe para jugar en la web con tus amigos! <br>
-El juego no está en línea, por lo que usted y su amigo deben jugar en la misma computadora. <br>
+Este é um clássico jogo Tic-Tac-Toe para jogar na web com seus amigos! <br>
+O jogo não está online, então você e seu amigo precisariam estar jogando no mesmo computador. <br>
 
-Reglas:
-Tic-tac-toe es un juego en el que dos jugadores se turnan para dibujar una 'O' o una 'X' en un cuadrado de una cuadrícula que consta de nueve cuadrados. El ganador es el primer jugador en obtener tres de los mismos símbolos en una fila.
+Regras:
+Tic-tac-toe é um jogo em que dois jogadores se revezam para desenhar um 'O' ou um 'X' em um quadrado de uma grade composta por nove quadrados. O vencedor é o primeiro jogador a obter três dos mesmos símbolos em sequência.
 
 
 ## Tecnologias utilizadas
