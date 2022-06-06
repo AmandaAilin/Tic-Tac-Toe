@@ -14,6 +14,9 @@
 
 ![tictactou2](https://user-images.githubusercontent.com/100203503/169650202-a7a5d5f2-50dd-498a-a8be-28c2bd416b95.PNG)
 
+<p align="right">
+ View: https://amandaailin.github.io/Tic-Tac-Toe/
+</p>
 
 
 ## Descrição do Projeto
