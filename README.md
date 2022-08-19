@@ -31,6 +31,7 @@ Tic-tac-toe é um jogo em que dois jogadores se revezam para desenhar um 'O' ou 
 
 - [ ] adicionar acessibilidade
 - [ ] media query
+- [ ] adicionar função pra quando foi empate
 </br>
 
 ## Tecnologias utilizadas
